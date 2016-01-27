@@ -1,0 +1,2 @@
+# firefox-profile
+Firefox preferences 
